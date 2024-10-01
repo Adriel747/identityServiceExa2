@@ -1,0 +1,6 @@
+spring:
+  application:
+  name : ExamenApplication
+server:
+  port: 8080
+  banner: banner.txt
